@@ -1,0 +1,8 @@
+{
+  "name": "divine-connect",
+  "app_id": "73e56f7a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
